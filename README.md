@@ -9,6 +9,10 @@ Create Graphs with flask and matplotlib
 
 https://technovechno.com/creating-graphs-in-python-using-matplotlib-flask-framework-pythonanywhere/
 
+Matplotlib Tutorial
+
+https://matplotlib.org/tutorials/index.html#introductory
+
 https://www.raspberrypi.org/documentation/usage/gpio/README.md
 
 Instead of changing the default system-wide you could change it just for your pi-user. Do this: 
