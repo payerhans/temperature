@@ -1,5 +1,5 @@
 # temperature
-Grundlegendes:
+## **Grundlegendes**:
 
 https://www.einplatinencomputer.com/raspberry-pi-temperatur-und-luftfeuchtigkeitssensor-dht22/
 
@@ -14,6 +14,8 @@ Matplotlib Tutorial
 https://matplotlib.org/tutorials/index.html#introductory
 
 https://www.raspberrypi.org/documentation/usage/gpio/README.md
+
+## python3 für user
 
 Instead of changing the default system-wide you could change it just for your pi-user. Do this: 
 
